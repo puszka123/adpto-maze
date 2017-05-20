@@ -1,0 +1,4 @@
+
+
+int* getPath(int** connections);
+

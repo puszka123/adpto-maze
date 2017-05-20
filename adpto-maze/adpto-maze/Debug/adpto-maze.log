@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\professional\documents\visual studio 2015\projects\adpto-maze\adpto-maze\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\professional\documents\visual studio 2015\projects\adpto-maze\adpto-maze\main.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  adpto-maze.vcxproj -> c:\users\professional\documents\visual studio 2015\Projects\adpto-maze\Debug\adpto-maze.exe
+  adpto-maze.vcxproj -> c:\users\professional\documents\visual studio 2015\Projects\adpto-maze\Debug\adpto-maze.pdb (Full PDB)
